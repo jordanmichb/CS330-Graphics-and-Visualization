@@ -11,7 +11,7 @@ The scene begins at coordinate (0, 0, 3). The camera can be moved up, left, down
 
 Scene: 
 
-![image](https://user-images.githubusercontent.com/95947696/209863097-8cd28a80-e8a0-401f-b8d2-f9805665f438.png = 400x300)
+![image](https://user-images.githubusercontent.com/95947696/209863097-8cd28a80-e8a0-401f-b8d2-f9805665f438.png =400x300)
 
 <br>
 <br>
