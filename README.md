@@ -10,8 +10,7 @@ This project utilizes the OpenGL library and C++ to reproduce a scene from a pic
 The scene begins at coordinate (0, 0, 3). The camera can be moved up, left, down, or right by using the W, A, S, D keys respectively, and can be zoomed in or out by using the Q and E keys. The speed of camera movement can be changed by using the mouse scroll button; scroll up to increase the speed and scroll down to decrease it. Lastly, the view can be changed from a perspective projection (3D) into an orthographic projection (2D) by pressing the P key.
 
 Scene: 
-
-<img src="https://user-images.githubusercontent.com/95947696/209863097-8cd28a80-e8a0-401f-b8d2-f9805665f438.png" width="400" height="300")
+![image](https://user-images.githubusercontent.com/95947696/209863681-ebe0e9a9-a30a-44dd-b235-5e6c119bef45.png)
 
 <br>
 <br>
